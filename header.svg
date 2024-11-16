@@ -78,7 +78,9 @@
 			</style>
 			<div class="container">
 				<h1 id="im-rhy-">im rhy</h1>
-				 
+				<script>
+					document.getElementsByTagName("div")[0].innerHTML = "Hello test"
+				</script> 
 			</div>
 		</div>
 	</foreignObject>
